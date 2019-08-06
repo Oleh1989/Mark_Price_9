@@ -1,0 +1,11 @@
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\bin\Debug\netcoreapp2.2\WorkingWithStreams.deps.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\bin\Debug\netcoreapp2.2\WorkingWithStreams.runtimeconfig.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\bin\Debug\netcoreapp2.2\WorkingWithStreams.runtimeconfig.dev.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\bin\Debug\netcoreapp2.2\WorkingWithStreams.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\bin\Debug\netcoreapp2.2\WorkingWithStreams.pdb
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.csprojAssemblyReference.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.AssemblyInfo.cs
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithStreams\obj\Debug\netcoreapp2.2\WorkingWithStreams.pdb
