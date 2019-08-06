@@ -78,9 +78,19 @@ namespace WorkingWithFileSystems
             WriteLine(textReader.ReadToEnd());
             textReader.Close();
 
+            
+            WriteLine($"File Name : {GetFileName(textFile)}");
+            WriteLine($"File Name without extension : {GetFileNameWithoutExtension(textFile)}");
+            WriteLine($"File extension : {GetExtension(textFile)}");
+            WriteLine($"Random file name : {GetRandomFileName()}");
+            WriteLine($"Temporary File Name : {GetTempFileName()}");
 
 
-
+            var info = new FileInfo(backupFile);
+            WriteLine($"{backupFile}");
+            WriteLine($" Contains {info.Length} bytes");
+            WriteLine($" Last accessed {info.LastAccessTime}");
+            WriteLine($" Has readonly set to {info.IsReadOnly}");
         }
 
         static void WorkingWithDrives()
