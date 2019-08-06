@@ -1,0 +1,11 @@
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\bin\Debug\netcoreapp2.2\WorkingWithFileSystems.deps.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\bin\Debug\netcoreapp2.2\WorkingWithFileSystems.runtimeconfig.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\bin\Debug\netcoreapp2.2\WorkingWithFileSystems.runtimeconfig.dev.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\bin\Debug\netcoreapp2.2\WorkingWithFileSystems.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\bin\Debug\netcoreapp2.2\WorkingWithFileSystems.pdb
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.csprojAssemblyReference.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.AssemblyInfo.cs
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithFileSystems\obj\Debug\netcoreapp2.2\WorkingWithFileSystems.pdb
