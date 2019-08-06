@@ -9,6 +9,80 @@ namespace WorkingWithFileSystems
 {
     class Program
     {
+        static void WorkWithDirectories()
+        {
+            // Определение собственного пути к папке
+            string userFolder = GetFolderPath(SpecialFolder.Personal);
+
+            var customFolder = new string[] { userFolder, "Mark_Price_9", "WorkingWithFileSystems", "NewFolder" };
+            string dir = Combine(customFolder);
+            WriteLine($"Working with: {dir}");
+
+            // Проверка существования папки
+            WriteLine($"Does it exist? {Exists(dir)}");
+
+            // Создание каталога
+            WriteLine("Creating it...");
+            CreateDirectory(dir);
+            WriteLine($"Does it exist? {Exists(dir)}");
+            Write("Confirm the directory exists, and then press ENTER");
+            ReadLine();
+
+            // Удаление каталога
+            WriteLine("Deleting it...");
+            Delete(dir, recursive: true);
+            WriteLine($"Does it exist? {Exists(dir)}");
+        }
+
+        static void WorkWithFiles()
+        {
+            // Определение пути к каталогу
+            string userFolder = GetFolderPath(SpecialFolder.Personal);
+
+            var customFolder = new string[] { userFolder, "Mark_Price_9", "WorkingWithFileSystems", "NewFolder" };
+            string dir = Combine(customFolder);
+            CreateDirectory(dir);
+
+            // Определение путей к файлам.
+            string textFile = Combine(dir, "Dummy.txt");
+            string backupFile = Combine(dir, "Dummy.bak");
+
+            WriteLine($"Working with {textFile}");
+
+            // Проверка существования файла
+            WriteLine($"Does it exist? : {File.Exists(textFile)}");
+
+            // Создание текстового файла и запись текстовой строки
+            StreamWriter textWriter = File.CreateText(textFile);
+            textWriter.WriteLine("Hello, C#!");
+            textWriter.Close(); // Закрытие файла и высвобождение ресурсов.
+
+            // Копирование файла с перезаписью (если существует)
+            File.Copy(
+                sourceFileName: textFile,
+                destFileName: backupFile,
+                overwrite: true);
+
+            WriteLine($"Does {backupFile} exist? : {File.Exists(backupFile)}");
+
+            Write("Confirm the files exist, and then press ENTER");
+            ReadLine();
+
+            // Удаление файла
+            File.Delete(textFile);
+            WriteLine($"Does it exist? : {File.Exists(textFile)}");
+
+            // Чтение содержимого текстового файла
+            WriteLine($"Reading contents of {backupFile}");
+            StreamReader textReader = File.OpenText(backupFile);
+            WriteLine(textReader.ReadToEnd());
+            textReader.Close();
+
+
+
+
+        }
+
         static void WorkingWithDrives()
         {
             WriteLine($"|--------------------------------|------------|---------|--------------------|--------------------|");
@@ -47,7 +121,9 @@ namespace WorkingWithFileSystems
         static void Main(string[] args)
         {
             //OutputFileSystemInfo();
-            WorkingWithDrives();
+            //WorkingWithDrives();
+            //WorkWithDirectories();
+            WorkWithFiles();
         }
     }
 }
