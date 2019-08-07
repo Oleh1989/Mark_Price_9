@@ -1,0 +1,11 @@
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\bin\Debug\netcoreapp2.2\WorkingWithSerialization.deps.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\bin\Debug\netcoreapp2.2\WorkingWithSerialization.runtimeconfig.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\bin\Debug\netcoreapp2.2\WorkingWithSerialization.runtimeconfig.dev.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\bin\Debug\netcoreapp2.2\WorkingWithSerialization.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\bin\Debug\netcoreapp2.2\WorkingWithSerialization.pdb
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.csprojAssemblyReference.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.AssemblyInfo.cs
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithSerialization\obj\Debug\netcoreapp2.2\WorkingWithSerialization.pdb

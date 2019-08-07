@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStreams", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEncoding", "WorkingWithEncoding\WorkingWithEncoding.csproj", "{F58F2E35-4B79-46F1-B987-15FF59E595CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{AF90AAE8-0860-4ED3-A9C3-AA58B7BE8294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F58F2E35-4B79-46F1-B987-15FF59E595CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58F2E35-4B79-46F1-B987-15FF59E595CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F58F2E35-4B79-46F1-B987-15FF59E595CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF90AAE8-0860-4ED3-A9C3-AA58B7BE8294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF90AAE8-0860-4ED3-A9C3-AA58B7BE8294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF90AAE8-0860-4ED3-A9C3-AA58B7BE8294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF90AAE8-0860-4ED3-A9C3-AA58B7BE8294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

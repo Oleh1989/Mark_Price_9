@@ -1,0 +1,11 @@
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\bin\Debug\netcoreapp2.2\WorkingWithEncoding.deps.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\bin\Debug\netcoreapp2.2\WorkingWithEncoding.runtimeconfig.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\bin\Debug\netcoreapp2.2\WorkingWithEncoding.runtimeconfig.dev.json
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\bin\Debug\netcoreapp2.2\WorkingWithEncoding.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\bin\Debug\netcoreapp2.2\WorkingWithEncoding.pdb
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.csprojAssemblyReference.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.AssemblyInfo.cs
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.dll
+D:\Projects\Mark_Price_9\WorkingWithFileSystems\WorkingWithEncoding\obj\Debug\netcoreapp2.2\WorkingWithEncoding.pdb
